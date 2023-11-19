@@ -1,32 +1,8 @@
-#######################################################################################
-# README FILE
-# Introduction to Machine Learning
 # Assignment 1
-#
-# After completing the assignment, fill in this README file.  It asks you to duplicate
-# your answers to several questions.  Be certain that your answers in this README file
-# (which will be used for auto-feedback) match the answers in your PDF writeup.
-#
-# This README file is formatted in YAML to allow it to be machine readable.  Please
-# be very careful with how you edit it, being careful to following the formatting.
-# Be sure to use a plain text editor when editing this file (e.g., not Notepad, etc.).
-# Make certain not to change any text in all UPPERCASE.  After editing, you can make 
-# certain that your README file follows proper YAML syntax by running it through an
-# online YAML checker, such as http://yaml-online-parser.appspot.com/
-# 
-# The most frequent error is multi-line strings, such as "SOURCESCONSULTED" and 
-# "FEEDBACK_ERRORS".  Make certain that the previous line ends with a | followed by a 
-# newline.  Then, make certain that the subsequent lines are indented one level in 
-# (4 spaces).  This sounds complex, but just follow the existing format of this file.
-# If you run into any problems that you can't fix easily in listing your sources or 
-# providing feedback on the assignment, just include your multi-line string answers to
-# these parts as comments.  Everything else (all simple one-word or numeric answers) must
-# be properly formatted YAML.
-#######################################################################################
 
 # Personal information
-FIRSTNAME: Bui 
-LASTNAME:  Manh Huy
+FIRSTNAME: Nguyen
+LASTNAME:  Hoang Hiep
 
 # Which course are you enrolled in?  (enter 419 or 519)
 COURSE:  519 
